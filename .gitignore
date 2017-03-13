@@ -1,3 +1,11 @@
+*.mp4
+*.mov
+*.flv
+
+
+!water%20plane%20fadein-SD.mp4
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
